@@ -601,7 +601,9 @@ h5{
 		height: 1800px;
 	}
 
-	
+	.img_cl{
+		width: 35%;
+	}
 	.client{
 		height: 50%;
 		margin-top: 10px;
@@ -614,6 +616,17 @@ h5{
 	}
 	.ik{
 		margin-top: 60px;
+		width: 80%;
+
 	}
-	
+	.image_last{
+		width: 30%;
+		margin-top: -150px;
+	}
+	.picture_2{
+		display: none;
+	}
+	#btn_spep{
+		display: none;
+	}
 }
